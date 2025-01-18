@@ -227,4 +227,10 @@
           .main-text{
             font-size: 30px;
           }
+           #carouselExampleCaptions{
+            margin: 15px 10px 30px 10px;
+           }
+            nav{
+                    margin: 15px 10px ;
+            }
         }
