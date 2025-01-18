@@ -218,6 +218,9 @@
           #grid-ele h4{
             font-size: 1.6em;
           }
+          #grid-5 h4{
+            font-size: 1.6em;
+          }
         }
         
         @media screen and (max-width : 600px) {
