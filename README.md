@@ -1,2 +1,2 @@
 # BMW-Home-Page
-Made using HTML , CSS , Bootstrap
+A Responsive Web-Page Made using HTML , CSS , Bootstrap
